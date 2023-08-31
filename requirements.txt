@@ -1,0 +1,7 @@
+-i https://download.pytorch.org/whl/cu117
+torch
+torchvision
+torchaudio
+pytorch-lightning
+transformers
+pandas
